@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zahmir</h1>
+<h1 align="center">Hi 👋🏾, I'm Zahmir</h1>
 <h3 align="center">A passionate Maker and Educator. Boston Based</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjacobsdev&label=Profile%20views&color=0e75b6&style=flat" alt="zjacobsdev" /> </p>
