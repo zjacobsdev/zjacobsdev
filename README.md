@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjacobsdev&label=Profile%20views&color=0e75b6&style=flat" alt="zjacobsdev" /> </p>
 
-- 💬 Ask me about **Rasberry Pi, Arduino**
+- 💬 Ask me about **Embedded systems: Raspberry Pi, Arduino, API Development, 3d Printing + CNC Machining, 2D/3D Design**
 
 - 📫 How to reach me **z.jacobsdev@gmail.com**
 
